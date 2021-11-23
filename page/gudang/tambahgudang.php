@@ -48,7 +48,7 @@ $jumlah = 0;
 							
 							<form method="POST" enctype="multipart/form-data">
 							
-							<label for="">Kode Barang</label>
+							<label for="">Kode Obat</label>
                             <div class="form-group">
                                <div class="form-line">
                                   <input type="text" name="kode_obat" class="form-control" id="kode_obat" value="<?php echo $format; ?>" readonly />	 
@@ -57,7 +57,7 @@ $jumlah = 0;
 							
 						
 							
-							<label for="">Nama Barang</label>
+							<label for="">Nama Obat</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <input type="text" name="nama_obat" class="form-control" />	 
@@ -98,11 +98,11 @@ $jumlah = 0;
                           
                               
 				
-							<label for="">Satuan Barang</label>
+							<label for="">Satuan Obat</label>
                             <div class="form-group">
                                <div class="form-line">
                                 <select name="satuan" class="form-control" />
-								<option value="">-- Pilih Satuan Barang --</option>
+								<option value="">-- Pilih Satuan Obat --</option>
 								<?php
 								
 								$sql = $koneksi -> query("select * from satuan order by id");

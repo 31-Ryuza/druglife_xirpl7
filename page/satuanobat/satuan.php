@@ -7,12 +7,12 @@
         <div class="container-fluid">
 
         <!-- Page Heading -->
-        <h1 class="h3 mb-0 text-gray-800" style="margin-bottom: 3rem;">Data Master / Satuan Barang</h1>
+        <h1 class="h3 mb-0 text-gray-800" style="margin-bottom: 3rem;">Data Master / Satuan Obat</h1>
 
           <!-- DataTales Example -->
           <div class="card shadow mb-4"  style="margin-top: 1rem;">
             <div class="card-header py-3">
-              <a href="?page=satuanobat&aksi=tambahsatuan" class="btn btn-success" >Tambah Satuan Barang</a>
+              <a href="?page=satuanobat&aksi=tambahsatuan" class="btn btn-success" >Tambah Satuan Obat</a>
             </div>
             <div class="card-body">
               <div class="table-responsive">
@@ -20,7 +20,7 @@
                 <thead>
                                         <tr>
 											<th>No</th>
-											<th>Satuan Barang</th>
+											<th>Satuan Obat</th>
 											
 											<th>Pengaturan</th>
                                          

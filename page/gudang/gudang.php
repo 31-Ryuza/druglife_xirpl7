@@ -20,11 +20,11 @@
                 <thead>
                                         <tr>
 											<th>No</th>
-											<th>Kode Barang</th>
-											<th>Nama Barang</th>											
-											<th>Jenis Barang</th>
+											<th>Kode Obat</th>
+											<th>Nama Obat</th>											
+											<th>Jenis Obat</th>
 											
-											<th>Jumlah Barang</th>
+											<th>Jumlah Obat</th>
 											<th>Satuan</th>
 											<th>Pengaturan</th>
                                          
